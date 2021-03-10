@@ -1,0 +1,50 @@
+.Header{
+    background-color: #000000;
+    padding: 15px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: #ffffff
+}
+
+h1 {
+    margin-left : 30px;
+}
+
+a{
+    margin-right : 30px;
+    margin-top: 30px;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.Grid{
+    display: flex;
+     justify-content: space-between;
+}
+
+.Grid img{
+    border:2px solid #000000;
+    border-radius:50px;
+}
+
+body{
+    background-color: aquamarine;
+    margin:0px;
+}
+a
+
+
+h1{
+
+    color:rgb(165, 42, 42)
+
+}
+
+.Item{
+    
+    justify-content: space-evenly;
+    position: relative;
+    flex-wrap: wrap;
+    
+}
